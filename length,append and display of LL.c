@@ -55,7 +55,7 @@ int length()
 	}
 	return i;
 }
-void display()
+display()
 {
 	struct node * temp;
 	temp=root;
